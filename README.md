@@ -15,25 +15,6 @@
 
 <br>
 
-<div align="center">
-
-<h3><code>ayush@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="live contribution heatmap" />
-
-<br><br>
-
-<h3><code>ayush@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="430" alt="ASCII portrait, cycles every 10s" /></td>
-    <td valign="top"><img src="./info-card.svg" width="420" alt="neofetch-style info card" /></td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
 ## 👋 About Me
 
 A CSE student at GD Goenka University, Gurgaon, currently in my third year and slowly rewiring how I think about software.
@@ -164,6 +145,10 @@ Most of my hands-on experience has been full-stack: building APIs, wiring up adm
 
 <img src="https://github-readme-stats.vercel.app/api?username=AyushMourya43&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&rank_icon=github" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMourya43&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff" width="38%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushMourya43&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=6366f1&dates=ffffff" width="62%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushMourya43&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=ec4899&point=ffffff" width="95%" />
 
 </div>
 
