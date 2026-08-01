@@ -1,0 +1,49 @@
+<svg viewBox="0 0 490 300" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="488" height="298" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="488" height="30" rx="10" fill="#161b22"/>
+<rect x="1" y="21" width="488" height="10" fill="#161b22"/>
+<circle cx="22" cy="16" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="16" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="16" r="6" fill="#27c93f"/>
+<text x="245.0" y="20" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="12" fill="#8b949e">ayush@github: neofetch</text>
+<text x="26" y="40" font-family="Fira Code, Consolas, monospace" font-size="14.5" font-weight="700" fill="#6366f1">ayush@github</text>
+<line x1="26" y1="48" x2="464" y2="48" stroke="#30363d"/>
+<g opacity="0" transform="translate(-14,0)">
+<text x="26" y="74" font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="700" fill="#6366f1">OS</text>
+<text x="134" y="74" font-family="Fira Code, Consolas, monospace" font-size="12.5" fill="#c9d1d9">GD Goenka University :: CSE '27</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.40s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+</g>
+<g opacity="0" transform="translate(-14,0)">
+<text x="26" y="99" font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="700" fill="#6366f1">Now</text>
+<text x="134" y="99" font-family="Fira Code, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Aspiring Data Engineer (Python, SQL, ETL)</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.58s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.58s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+</g>
+<g opacity="0" transform="translate(-14,0)">
+<text x="26" y="124" font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="700" fill="#6366f1">Prev</text>
+<text x="134" y="124" font-family="Fira Code, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Full-Stack Developer (MERN)</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.76s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.76s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+</g>
+<g opacity="0" transform="translate(-14,0)">
+<text x="26" y="149" font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="700" fill="#6366f1">Stack</text>
+<text x="134" y="149" font-family="Fira Code, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Python, SQL, Pandas, React, Node.js</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.94s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.94s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+</g>
+<g opacity="0" transform="translate(-14,0)">
+<text x="26" y="174" font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="700" fill="#6366f1">Highlights</text>
+<text x="134" y="174" font-family="Fira Code, Consolas, monospace" font-size="12.5" fill="#c9d1d9">3rd @ Syntax Sprint '25  //  100+ DSA solved</text>
+<animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="1.12s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+</g>
+<g opacity="0" transform="translate(-14,0)">
+<text x="26" y="199" font-family="Fira Code, Consolas, monospace" font-size="13" font-weight="700" fill="#6366f1">Uptime</text>
+<text x="134" y="199" font-family="Fira Code, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Building, breaking, shipping since 2022</text>
+<animate attributeName="opacity" from="0" to="1" begin="1.30s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="1.30s" dur="0.35s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+</g>
+<rect x="26" y="272" width="18" height="18" rx="3" fill="#161b22" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.58s" dur="0.5s" fill="freeze"/></rect>
+<rect x="50" y="272" width="18" height="18" rx="3" fill="#0e4429" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.58s" dur="0.5s" fill="freeze"/></rect>
+<rect x="74" y="272" width="18" height="18" rx="3" fill="#006d32" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.58s" dur="0.5s" fill="freeze"/></rect>
+<rect x="98" y="272" width="18" height="18" rx="3" fill="#26a641" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.58s" dur="0.5s" fill="freeze"/></rect>
+<rect x="122" y="272" width="18" height="18" rx="3" fill="#39d353" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.58s" dur="0.5s" fill="freeze"/></rect>
+<rect x="146" y="272" width="18" height="18" rx="3" fill="#6366f1" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.58s" dur="0.5s" fill="freeze"/></rect>
+<rect x="170" y="272" width="18" height="18" rx="3" fill="#8b5cf6" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.58s" dur="0.5s" fill="freeze"/></rect>
+<rect x="194" y="272" width="18" height="18" rx="3" fill="#ec4899" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.58s" dur="0.5s" fill="freeze"/></rect>
+</svg>
