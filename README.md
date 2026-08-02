@@ -11,6 +11,16 @@
   <a href="mailto:ayushmourya43@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=AyushMourya43&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" />
+
+</div>
+
+<br>
+
+## Hello, Nice to Meet You !! 👋
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="900">
 </div>
 
 <br>
@@ -83,6 +93,10 @@ Most of my hands-on experience has been full-stack: building APIs, wiring up adm
 - Auto-fetching tech news feed on a personal React/Vite portfolio
 - Tavily for content sourcing, Groq for AI-based summarization
 - Automated refresh via GitHub Actions for an always-current feed
+
+**🤖 Aaru — AI Portfolio Chatbot** — *React, Groq API*
+- AI-powered chatbot baked into my portfolio site, trained with personal context & personality rules
+- Heart-shaped avatar, auto-greeting popup, and smooth click-outside-to-close UX
 
 **🤖 AI Resume Builder** — *React, Tailwind CSS*
 - Responsive AI-powered resume builder with multiple professional templates
@@ -168,6 +182,14 @@ Most of my hands-on experience has been full-stack: building APIs, wiring up adm
 
 <br>
 
+## Let's Code Together !! 💻
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="900">
+</div>
+
+<br>
+
 ## 📬 Connect with Me
 
 <div align="center">
@@ -180,6 +202,12 @@ Most of my hands-on experience has been full-stack: building APIs, wiring up adm
 </div>
 
 <br>
+
+## Thanks for Stopping By !! 🙌
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="900">
+</div>
 
 <div align="center">
 
