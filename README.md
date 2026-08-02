@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120">
-
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=200&section=header&text=Hey,%20I'm%20Ayush%20Mourya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Engineer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=16)](https://ayush-portfolio-dnef.vercel.app/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Diving+into+Data+Engineering+%F0%9F%93%8A;Hackathon+Winner+%F0%9F%8F%86;100%2B+DSA+Problems+Solved+in+Python+%F0%9F%A7%A9;Open+Source+Contributor+%E2%9C%A8)](https://ayush-portfolio-dnef.vercel.app/)
@@ -13,15 +11,9 @@
   <a href="mailto:ayushmourya43@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=AyushMourya43&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" />
-
 </div>
 
 <br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="900">
-</div>
 
 ## 👋 About Me
 
@@ -92,10 +84,6 @@ Most of my hands-on experience has been full-stack: building APIs, wiring up adm
 - Tavily for content sourcing, Groq for AI-based summarization
 - Automated refresh via GitHub Actions for an always-current feed
 
-**🤖 Aaru — AI Portfolio Chatbot** — *React, Groq API*
-- AI-powered chatbot baked into my portfolio site, trained with personal context & personality rules
-- Heart-shaped avatar, auto-greeting popup, and smooth click-outside-to-close UX
-
 **🤖 AI Resume Builder** — *React, Tailwind CSS*
 - Responsive AI-powered resume builder with multiple professional templates
 - Real-time preview, AI content suggestions per section
@@ -162,9 +150,6 @@ Most of my hands-on experience has been full-stack: building APIs, wiring up adm
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushMourya43&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=ec4899&point=ffffff" width="95%" />
 
-<!-- Snake contribution animation — needs a one-time GitHub Actions setup, see note below -->
-<img src="https://raw.githubusercontent.com/AyushMourya43/AyushMourya43/output/github-contribution-grid-snake.svg" width="95%" />
-
 </div>
 
 <br>
@@ -182,10 +167,6 @@ Most of my hands-on experience has been full-stack: building APIs, wiring up adm
 </div>
 
 <br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="900">
-</div>
 
 ## 📬 Connect with Me
 
