@@ -1,0 +1,42 @@
+name: refresh stats
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+  # deliberately no `push`: this job commits, and a push trigger would set it
+  # running again on its own commit
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # no personal access token needed -- the built-in one returns the same
+      # numbers, and the generator imports nothing outside the standard library
+      - name: draw the cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: python3 scripts/generate_stats.py
+
+      - name: commit only if something moved
+        run: |
+          FILES="stats.svg streak.svg langs.svg year.svg"
+          if [ -z "$(git status --porcelain -- $FILES)" ]; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- $FILES
+          git commit -m "stats: refresh"
+          git push

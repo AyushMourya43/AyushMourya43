@@ -1,192 +1,99 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=200&section=header&text=Hey,%20I'm%20Ayush%20Mourya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Engineer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=16)](https://ayush-portfolio-dnef.vercel.app/)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Diving+into+Data+Engineering+%F0%9F%93%8A;Hackathon+Winner+%F0%9F%8F%86;100%2B+DSA+Problems+Solved+in+Python+%F0%9F%A7%A9;Open+Source+Contributor+%E2%9C%A8)](https://ayush-portfolio-dnef.vercel.app/)
-
-<p>
-  <a href="https://www.linkedin.com/in/ayush-mourya-7999a428a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://ayush-portfolio-dnef.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://leetcode.com/ayushmourya43"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:ayushmourya43@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="portrait.svg" width="460" alt="ASCII portrait of Ayush, typed in one row at a time">
 
 </div>
 
 <br>
 
-## 👋 About Me
-
-A CSE student at GD Goenka University, Gurgaon, currently in my third year and slowly rewiring how I think about software.
-
-Most of my hands-on experience has been full-stack: building APIs, wiring up admin panels, shipping UI across three internships. It taught me a lot, but the part I kept coming back to on my own time was the layer underneath all of it — pulling raw data, cleaning it up, and turning it into something usable. That pull is what's now steering me toward data engineering.
-
-**What I've been up to:**
-- 🐍 Built a Python ETL pipeline that pulls live crypto data from the CoinGecko API, handles errors gracefully, and exports clean reports
-- ⚙️ Automated a daily tech-news feed (**Tech Pulse**) using GitHub Actions — runs on its own, no manual triggers
-- 🥉 Placed 3rd at Syntax Sprint '25, a hackathon hosted by my university's tech club
-- 🧮 Cleared 100+ problems on LeetCode and GeeksforGeeks, all in Python
-- ✍️ Wrote a research report on *"Future of IT"* after an industry exposure program at the IT Ministry
-- 📚 Right now, I'm heads-down on SQL and ETL fundamentals — trying to build the data engineering base properly, not just skim it
+> **Ayush Mourya** — CSE undergrad at GD Goenka University, Gurgaon.
+> Full-stack by trade, moving deliberately toward data engineering.
+> Every graphic below is drawn inside this repository. No third-party widgets,
+> nothing that can rate-limit or go dark.
 
 <br>
 
-## 🛠️ Tech Stack
+<img src="hd-whoami.svg" width="860" alt="whoami">
 
-<div align="center">
+Most of my hands-on work has been full-stack — APIs, admin panels, UI
+shipped across three internships. Useful, but the part I kept coming back
+to on my own time was the layer underneath all of it: pulling raw data,
+cleaning it up, turning it into something someone can actually use.
+That pull is what now steers most of what I build.
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend / MERN**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Data Engineering**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-6366f1?style=for-the-badge&logo=databricks&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+<samp>now</samp> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL and ETL fundamentals, properly rather than skimmed
+<samp>built</samp> &nbsp;&nbsp;&nbsp; a Python ETL pipeline over the CoinGecko API, and a tech-news
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; feed that refreshes itself on GitHub Actions
+<samp>solved</samp> &nbsp;&nbsp; 100+ DSA problems on LeetCode and GeeksforGeeks, all in Python
+<samp>placed</samp> &nbsp;&nbsp; 3rd at Syntax Sprint '25, my university's hackathon
 
 <br>
 
-## 🚀 Featured Projects
+<img src="hd-activity.svg" width="860" alt="activity">
 
-**🪙 Cryptocurrency ETL Pipeline** — *Python, Pandas, NumPy*
-- Built a modular ETL pipeline pulling live data for the top 20 cryptocurrencies from the CoinGecko API
-- Structured logging and error handling for timeouts, connection, and HTTP errors
-- Cleaned and transformed data with Pandas/NumPy, exporting reports to Excel
+<img src="stats.svg" width="860" alt="contributions in the last 365 days, with a weekly sparkline">
 
-**📰 Tech Pulse** — *React, Vite, Tavily, Groq, GitHub Actions*
-- Auto-fetching tech news feed on a personal React/Vite portfolio
-- Tavily for content sourcing, Groq for AI-based summarization
-- Automated refresh via GitHub Actions for an always-current feed
+<img src="streak.svg" width="860" alt="current streak, longest streak, and days with a commit">
 
-**🤖 AI Resume Builder** — *React, Tailwind CSS*
-- Responsive AI-powered resume builder with multiple professional templates
-- Real-time preview, AI content suggestions per section
-- Team project — contributed frontend features & UX optimization
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/View_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushMourya43)
-
-</div>
+<img src="year.svg" width="860" alt="the last 365 days, one character per day">
 
 <br>
 
-## 💼 Experience
+<img src="hd-languages.svg" width="860" alt="languages">
 
-<table align="center">
-  <tr>
-    <th>Role</th>
-    <th>Company</th>
-    <th>Duration</th>
-  </tr>
-  <tr>
-    <td>🔵 Full Stack Developer Intern</td>
-    <td>Webarclight Pvt. Ltd.</td>
-    <td>Oct 2025 – Jan 2026</td>
-  </tr>
-  <tr>
-    <td>🟢 Web Developer Intern ⭐</td>
-    <td>Uptoskills Technified Pvt. Ltd.</td>
-    <td>Jun – Sep 2025</td>
-  </tr>
-  <tr>
-    <td>🟡 HR Intern</td>
-    <td>Gomechanic Service Easy Technology</td>
-    <td>Jun – Sep 2025</td>
-  </tr>
-</table>
-
-<div align="center">
-
-⭐ Recognized as **Intern of the Month — August 2025** at Uptoskills
-
-</div>
+<img src="langs.svg" width="860" alt="top languages by share of bytes across public repositories">
 
 <br>
 
-## 🏆 Achievements
+<img src="hd-stack.svg" width="860" alt="stack">
 
-- 🥉 **3rd Place** — Syntax Sprint '25 Hackathon, GD Goenka University (March 2025)
-- 🧩 **100+ DSA Problems** solved on LeetCode & GeeksforGeeks using Python
-- 📄 **Research Report Author** — *Future of IT: Industry Exposure at the IT Ministry*
-- 🐍 **Python Workshop** — Hands-on training at Sunstone (November 2024)
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyushMourya43&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&rank_icon=github" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushMourya43&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff" width="38%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushMourya43&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=6366f1&dates=ffffff" width="62%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushMourya43&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=ec4899&point=ffffff" width="95%" />
-
-</div>
+<samp>languages &nbsp;&nbsp;&nbsp; Python · SQL · JavaScript · HTML · CSS</samp>
+<samp>data &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pandas · NumPy · MySQL · REST APIs · ETL pipelines</samp>
+<samp>web &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React · Node · Express · Tailwind · MongoDB</samp>
+<samp>tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git · GitHub Actions · DBeaver · Postman · VS Code</samp>
 
 <br>
 
-## 🧩 DSA Progress
+<img src="hd-work.svg" width="860" alt="work">
 
-<div align="center">
+**Cryptocurrency ETL pipeline**
+<samp>python · pandas · numpy</samp>
+Modular extract–transform–load over the top 20 coins from the CoinGecko
+API. Structured logging, explicit handling for timeouts and HTTP errors,
+cleaned frames exported as reports.
 
-![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Tech Pulse**
+<samp>react · vite · tavily · groq · github actions</samp>
+A tech-news feed that keeps itself current — Tavily sources the content,
+Groq summarises it, and a scheduled action refreshes the whole thing with
+no manual trigger.
 
-*Currently solving problems on **Arrays, Strings, Searching, Sorting** and beyond!*
-
-</div>
-
-<br>
-
-## 📬 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-mourya-7999a428a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ayush-portfolio-dnef.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ayushmourya43)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushmourya43@gmail.com)
-
-</div>
+**AI Resume Builder**
+<samp>react · tailwind</samp>
+Responsive resume builder with several templates, live preview and
+per-section AI suggestions. Team project; I worked on the frontend and
+the interaction details.
 
 <br>
 
-<div align="center">
+<img src="hd-experience.svg" width="860" alt="experience">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+<samp>oct 2025 – jan 2026 &nbsp;&nbsp; full stack developer intern · Webarclight</samp>
+<samp>jun – sep 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; web developer intern · Uptoskills</samp>
+<samp>jun – sep 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hr intern · GoMechanic</samp>
 
-⭐ **If you like my work, consider starring my repos!** ⭐
+Named Intern of the Month at Uptoskills, August 2025. Wrote a research
+report on the future of IT after an industry exposure program at the
+IT Ministry.
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:6366f1&height=100&section=footer)](https://ayush-portfolio-dnef.vercel.app/)
+<br>
 
-</div>
+<img src="hd-elsewhere.svg" width="860" alt="elsewhere">
+
+[portfolio](https://ayush-portfolio-dnef.vercel.app/) · [linkedin](https://www.linkedin.com/in/ayush-mourya-7999a428a/) · [leetcode](https://leetcode.com/ayushmourya43) · [email](mailto:ayushmourya43@gmail.com)
+
+<br>
+
+<samp>The portrait, the headings and the four data cards are SVGs generated in this
+repository — see <a href="HOW-IT-WORKS.md">HOW-IT-WORKS.md</a>. Set in JetBrains
+Mono, subset and inlined, under the SIL Open Font License.</samp>
