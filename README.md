@@ -16,7 +16,7 @@
 
 <br />
 
-<img src="04-projects.svg" width="100%" alt="Projects: JobPulse — ETL for 30 job roles and a six-chart analytics dashboard. College Advisor — RAG recommendations using 52,000+ AISHE college records. Ntech — automated tech news with Tavily, Groq and GitHub Actions." />
+<img src="04-projects.gif" width="100%" alt="Projects: JobPulse — ETL for 30 job roles and a six-chart analytics dashboard. College Advisor — RAG recommendations using 52,000+ AISHE college records. Ntech — automated tech news with Tavily, Groq and GitHub Actions." />
 
 <p align="center">
   <a href="https://github.com/AyushMourya43/JOB-PULSE"><img src="https://img.shields.io/badge/JOBPULSE-View%20Code-387FC8?style=for-the-badge&amp;labelColor=393943&amp;logo=github&amp;logoColor=white" alt="Open JobPulse source code" /></a>
