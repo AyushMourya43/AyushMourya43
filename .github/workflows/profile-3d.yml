@@ -1,0 +1,37 @@
+name: Update contribution heatmap
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: conf/github-profile-3d-contrib.json
+
+      - name: Save generated heatmap
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-3d-contrib/profile-ayush.svg
+          if git diff --cached --quiet; then
+            echo "Heatmap is already up to date."
+          else
+            git commit -m "Update contribution heatmap"
+            git push
+          fi
