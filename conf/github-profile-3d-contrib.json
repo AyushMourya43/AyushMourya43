@@ -1,0 +1,19 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-ayush.svg",
+    "backgroundColor": "#FAF9F5",
+    "foregroundColor": "#393943",
+    "strongColor": "#F3B552",
+    "weakColor": "#5D6470",
+    "radarColor": "#387FC8",
+    "growingAnimation": true,
+    "contribColors": [
+      "#E4EEF8",
+      "#C6DCF2",
+      "#8FB6DF",
+      "#387FC8",
+      "#F3B552"
+    ]
+  }
+]
