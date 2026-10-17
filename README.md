@@ -24,7 +24,7 @@
   <a href="https://ayush-portfolio-dnef.vercel.app/"><img src="https://img.shields.io/badge/NTECH-Explore%20Portfolio-E4EEF8?style=for-the-badge&amp;labelColor=393943&amp;logo=vercel&amp;logoColor=393943" alt="Explore Ntech on Ayush's portfolio" /></a>
 </p>
 
-<img src="05-experience.svg" width="100%" alt="Experience: Full-Stack Developer Intern at Webarclight, October 2025–January 2026; Web Developer Intern at Uptoskills Technified, June–September 2025; HR Intern at Gomechanic, June–September 2025. Intern of the Month in August 2025, third place at Syntax Sprint ’25, and 100+ DSA problems solved." />
+<img src="05-experience.gif" width="100%" alt="Experience: Full-Stack Developer Intern at Webarclight, October 2025–January 2026; Web Developer Intern at Uptoskills Technified, June–September 2025; HR Intern at Gomechanic, June–September 2025. Intern of the Month in August 2025, third place at Syntax Sprint ’25, and 100+ DSA problems solved." />
 
 <br />
 
