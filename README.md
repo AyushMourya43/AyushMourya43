@@ -1,6 +1,6 @@
 <!-- Upload README.md and the assets folder together at the root of your profile repository. -->
 <p align="center">
-  <img src="assets/01-hero.svg" width="100%" alt="Ayush Mourya — Aspiring Data Engineer. Python, SQL, ETL and RAG. Gurgaon, India." />
+  <img src="01-hero.svg" width="100%" alt="Ayush Mourya — Aspiring Data Engineer. Python, SQL, ETL and RAG. Gurgaon, India." />
 </p>
 
 <p align="center">
@@ -9,15 +9,15 @@
   <a href="mailto:ayushmourya43@gmail.com">Email ↗</a>
 </p>
 
-<img src="assets/02-about.svg" width="100%" alt="About me: Computer Science undergraduate at GD Goenka University, 2023–present. Full-stack development background, now focused on ETL and RAG. Currently learning Apache Spark." />
+<img src="02-about.svg" width="100%" alt="About me: Computer Science undergraduate at GD Goenka University, 2023–present. Full-stack development background, now focused on ETL and RAG. Currently learning Apache Spark." />
 
 <br />
 
-<img src="assets/03-stack.svg" width="100%" alt="Tech stack: Python, SQL, Pandas, PostgreSQL, MySQL, NumPy, RAG, pgvector, ChromaDB, Groq, Streamlit, Tableau, React, JavaScript, Node.js, Tailwind CSS, Git, GitHub Actions, REST APIs, HTML, CSS and Sentence-Transformers. Learning Apache Spark." />
+<img src="03-stack.svg" width="100%" alt="Tech stack: Python, SQL, Pandas, PostgreSQL, MySQL, NumPy, RAG, pgvector, ChromaDB, Groq, Streamlit, Tableau, React, JavaScript, Node.js, Tailwind CSS, Git, GitHub Actions, REST APIs, HTML, CSS and Sentence-Transformers. Learning Apache Spark." />
 
 <br />
 
-<img src="assets/04-projects.svg" width="100%" alt="Projects: JobPulse — ETL for 30 job roles and 6 Tableau charts. College Advisor — RAG recommendations using 52,000+ AISHE college records. Ntech — automated tech news with Tavily, Groq and GitHub Actions." />
+<img src="04-projects.svg" width="100%" alt="Projects: JobPulse — ETL for 30 job roles and 6 Tableau charts. College Advisor — RAG recommendations using 52,000+ AISHE college records. Ntech — automated tech news with Tavily, Groq and GitHub Actions." />
 
 <p align="center">
   <a href="https://github.com/AyushMourya43/JOB-PULSE"><b>JOBPULSE · CODE ↗</b></a> &nbsp; / &nbsp;
@@ -25,7 +25,7 @@
   <a href="https://ayush-portfolio-dnef.vercel.app/"><b>NTECH · PORTFOLIO ↗</b></a>
 </p>
 
-<img src="assets/05-experience.svg" width="100%" alt="Experience: Full-Stack Developer Intern at Webarclight, October 2025–January 2026; Web Developer Intern at Uptoskills Technified, June–September 2025; HR Intern at Gomechanic, June–September 2025. Intern of the Month in August 2025, third place at Syntax Sprint ’25, and 100+ DSA problems solved." />
+<img src="05-experience.svg" width="100%" alt="Experience: Full-Stack Developer Intern at Webarclight, October 2025–January 2026; Web Developer Intern at Uptoskills Technified, June–September 2025; HR Intern at Gomechanic, June–September 2025. Intern of the Month in August 2025, third place at Syntax Sprint ’25, and 100+ DSA problems solved." />
 
 <br />
 
@@ -62,10 +62,10 @@ I’m Ayush Mourya, a Computer Science undergraduate at GD Goenka University, fo
 
 <br />
 
-<img src="assets/06-connect.svg" width="100%" alt="Good ideas need someone to build them. Let’s talk data, applications and opportunities to learn." />
+<img src="06-connect.svg" width="100%" alt="Good ideas need someone to build them. Let’s talk data, applications and opportunities to learn." />
 
 <p align="center">
-  <a href="mailto:ayushmourya43@gmail.com"><img src="assets/link-email.svg" width="32%" alt="Email Ayush" /></a>
-  <a href="https://www.linkedin.com/in/ayush-mourya-7999a428a/"><img src="assets/link-linkedin.svg" width="32%" alt="Connect on LinkedIn" /></a>
-  <a href="https://ayush-portfolio-dnef.vercel.app/"><img src="assets/link-portfolio.svg" width="32%" alt="Explore my portfolio" /></a>
+  <a href="mailto:ayushmourya43@gmail.com"><img src="link-email.svg" width="32%" alt="Email Ayush" /></a>
+  <a href="https://www.linkedin.com/in/ayush-mourya-7999a428a/"><img src="link-linkedin.svg" width="32%" alt="Connect on LinkedIn" /></a>
+  <a href="https://ayush-portfolio-dnef.vercel.app/"><img src="link-portfolio.svg" width="32%" alt="Explore my portfolio" /></a>
 </p>
