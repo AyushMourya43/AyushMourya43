@@ -1,0 +1,9 @@
+{
+  "timezone": "Asia/Kolkata",
+  "themes": [
+    {"id":"blue-gold","name":"Original Blue & Gold","bg":"#FAF9F5","ink":"#393943","primary":"#387FC8","accent":"#F3B552","soft":"#E4EEF8"},
+    {"id":"burgundy-blue","name":"Burgundy + Pastel Blue + Buttermilk","bg":"#FFF3BB","ink":"#432F2D","primary":"#432F2D","accent":"#C3DDE8","soft":"#FBE8CC"},
+    {"id":"olive-terracotta","name":"Olive + Terracotta + Ivory","bg":"#ECEADF","ink":"#303C36","primary":"#435049","accent":"#B78D6E","soft":"#B6AB7D"},
+    {"id":"cream-teal","name":"Cream + Beige + Soft Blue + Teal","bg":"#FDF1DB","ink":"#243F49","primary":"#4F8FA8","accent":"#A6CBD3","soft":"#DFD5C6"}
+  ]
+}
