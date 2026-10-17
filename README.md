@@ -67,7 +67,7 @@ I’m Ayush Mourya, a Computer Science undergraduate at GD Goenka University, fo
 
 <br />
 
-<img src="06-connect.svg" width="100%" alt="Good ideas need someone to build them. Let’s talk data, applications and opportunities to learn." />
+<img src="06-connect.gif" width="100%" alt="Good ideas need someone to build them. Let’s talk data, applications and opportunities to learn." />
 
 <p align="center">
   <a href="mailto:ayushmourya43@gmail.com"><img src="link-email.svg" width="32%" alt="Email Ayush" /></a>
