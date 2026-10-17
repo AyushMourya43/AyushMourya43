@@ -1,12 +1,11 @@
-<!-- Upload README.md and the assets folder together at the root of your profile repository. -->
 <p align="center">
   <img src="01-hero.svg" width="100%" alt="Ayush Mourya — Aspiring Data Engineer. Python, SQL, ETL and RAG. Gurgaon, India." />
 </p>
 
 <p align="center">
-  <a href="https://ayush-portfolio-dnef.vercel.app/">Portfolio ↗</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/ayush-mourya-7999a428a/">LinkedIn ↗</a> &nbsp; / &nbsp;
-  <a href="mailto:ayushmourya43@gmail.com">Email ↗</a>
+  <a href="https://ayush-portfolio-dnef.vercel.app/"><img src="link-portfolio.svg" width="32%" alt="Open Ayush's portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ayush-mourya-7999a428a/"><img src="link-linkedin.svg" width="32%" alt="Connect with Ayush on LinkedIn" /></a>
+  <a href="mailto:ayushmourya43@gmail.com"><img src="link-email.svg" width="32%" alt="Email Ayush" /></a>
 </p>
 
 <img src="02-about.svg" width="100%" alt="About me: Computer Science undergraduate at GD Goenka University, 2023–present. Full-stack development background, now focused on ETL and RAG. Currently learning Apache Spark." />
@@ -20,9 +19,9 @@
 <img src="04-projects.svg" width="100%" alt="Projects: JobPulse — ETL for 30 job roles and 6 Tableau charts. College Advisor — RAG recommendations using 52,000+ AISHE college records. Ntech — automated tech news with Tavily, Groq and GitHub Actions." />
 
 <p align="center">
-  <a href="https://github.com/AyushMourya43/JOB-PULSE"><b>JOBPULSE · CODE ↗</b></a> &nbsp; / &nbsp;
-  <a href="https://college-advisor-izt2krlv49h8cboiuozmdj.streamlit.app/"><b>COLLEGE ADVISOR · LIVE ↗</b></a> &nbsp; / &nbsp;
-  <a href="https://ayush-portfolio-dnef.vercel.app/"><b>NTECH · PORTFOLIO ↗</b></a>
+  <a href="https://github.com/AyushMourya43/JOB-PULSE"><img src="https://img.shields.io/badge/JOBPULSE-View%20Code-7456E8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open JobPulse source code" /></a>
+  <a href="https://college-advisor-izt2krlv49h8cboiuozmdj.streamlit.app/"><img src="https://img.shields.io/badge/COLLEGE%20ADVISOR-Open%20App-12A89D?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Open College Advisor app" /></a>
+  <a href="https://ayush-portfolio-dnef.vercel.app/"><img src="https://img.shields.io/badge/NTECH-Explore%20Portfolio-EB7855?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Explore Ntech on Ayush's portfolio" /></a>
 </p>
 
 <img src="05-experience.svg" width="100%" alt="Experience: Full-Stack Developer Intern at Webarclight, October 2025–January 2026; Web Developer Intern at Uptoskills Technified, June–September 2025; HR Intern at Gomechanic, June–September 2025. Intern of the Month in August 2025, third place at Syntax Sprint ’25, and 100+ DSA problems solved." />
