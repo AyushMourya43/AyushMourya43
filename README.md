@@ -12,15 +12,15 @@
 
 <br />
 
-<img src="03-stack.svg" width="100%" alt="Tech stack: Python, SQL, Pandas, PostgreSQL, MySQL, NumPy, RAG, pgvector, ChromaDB, Groq, Streamlit, Tableau, React, JavaScript, Node.js, Tailwind CSS, Git, GitHub Actions, REST APIs, HTML, CSS and Sentence-Transformers. Learning Apache Spark." />
+<img src="03-stack.svg" width="100%" alt="Data engineering toolkit: Python, SQL, Pandas, PostgreSQL, MySQL, NumPy, RAG, Groq, Apache Spark, Databricks, Delta Lake and AWS learning, plus React, JavaScript, Tailwind CSS, Git and GitHub Actions." />
 
 <br />
 
-<img src="04-projects.svg" width="100%" alt="Projects: JobPulse — ETL for 30 job roles and 6 Tableau charts. College Advisor — RAG recommendations using 52,000+ AISHE college records. Ntech — automated tech news with Tavily, Groq and GitHub Actions." />
+<img src="04-projects.svg" width="100%" alt="Projects: JobPulse — ETL for 30 job roles and a six-chart analytics dashboard. College Advisor — RAG recommendations using 52,000+ AISHE college records. Ntech — automated tech news with Tavily, Groq and GitHub Actions." />
 
 <p align="center">
   <a href="https://github.com/AyushMourya43/JOB-PULSE"><img src="https://img.shields.io/badge/JOBPULSE-View%20Code-387FC8?style=for-the-badge&amp;labelColor=393943&amp;logo=github&amp;logoColor=white" alt="Open JobPulse source code" /></a>
-  <a href="https://college-advisor-izt2krlv49h8cboiuozmdj.streamlit.app/"><img src="https://img.shields.io/badge/COLLEGE%20ADVISOR-Open%20App-F3B552?style=for-the-badge&amp;labelColor=393943&amp;logo=streamlit&amp;logoColor=393943" alt="Open College Advisor app" /></a>
+  <a href="https://college-advisor-izt2krlv49h8cboiuozmdj.streamlit.app/"><img src="https://img.shields.io/badge/COLLEGE%20ADVISOR-Open%20App-F3B552?style=for-the-badge&amp;labelColor=393943" alt="Open College Advisor app" /></a>
   <a href="https://ayush-portfolio-dnef.vercel.app/"><img src="https://img.shields.io/badge/NTECH-Explore%20Portfolio-E4EEF8?style=for-the-badge&amp;labelColor=393943&amp;logo=vercel&amp;logoColor=393943" alt="Explore Ntech on Ayush's portfolio" /></a>
 </p>
 
@@ -29,7 +29,7 @@
 <br />
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-ayush.svg" width="100%" alt="Ayush's automatically updated GitHub contribution heatmap" />
+  <img src="profile-3d-contrib/profile-ayush.svg" width="100%" alt="Ayush’s automatically updated GitHub contribution heatmap" />
 </p>
 
 <br />
@@ -43,8 +43,8 @@ I’m Ayush Mourya, a Computer Science undergraduate at GD Goenka University, fo
 
 ### Selected work
 
-- **JobPulse:** Extracted Adzuna job postings across 30 roles, cleaned them with Pandas, and loaded a normalized PostgreSQL schema using idempotent `INSERT ... ON CONFLICT` logic. Used SQL self-joins and regex matching for skill co-occurrence analysis, presented in a six-chart Tableau dashboard.
-- **College Advisor:** A Streamlit platform for college shortlisting by budget and location. Cleaned 52,000+ AISHE records, generated sentence-transformer embeddings and used Supabase/pgvector, ChromaDB and Groq in the recommendation pipeline. Automated scheduling with GitHub Actions.
+- **JobPulse:** Extracted Adzuna job postings across 30 roles, cleaned them with Pandas, and loaded a normalized PostgreSQL schema using idempotent `INSERT ... ON CONFLICT` logic. Used SQL self-joins and regex matching for skill co-occurrence analysis, presented in a six-chart analytics dashboard.
+- **College Advisor:** A college shortlisting app based on budget and location. Cleaned 52,000+ AISHE records, generated sentence-transformer embeddings, and built a retrieval-based recommendation pipeline. Automated scheduled data processing with GitHub Actions.
 - **Ntech:** A tech news feature in my React/Vite portfolio, using Tavily for sourcing, Groq for summarization and GitHub Actions for periodic refresh.
 
 ### Experience
