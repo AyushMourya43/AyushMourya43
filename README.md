@@ -29,7 +29,7 @@
 <br />
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-ayush.svg" width="100%" alt="Ayush’s automatically updated GitHub contribution heatmap" />
+  <img src="profile-3d-contrib/profile-ayush.gif" width="100%" alt="Ayush’s automatically updated animated GitHub contribution heatmap" />
 </p>
 
 <br />
