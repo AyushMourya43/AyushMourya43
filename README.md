@@ -8,7 +8,7 @@
   <a href="mailto:ayushmourya43@gmail.com"><img src="link-email.svg" width="32%" alt="Email Ayush" /></a>
 </p>
 
-<img src="02-about.svg" width="100%" alt="About me: Computer Science undergraduate at GD Goenka University, 2023–present. Full-stack development background, now focused on ETL and RAG. Currently learning Apache Spark." />
+<img src="02-about.gif" width="100%" alt="About me: Computer Science undergraduate at GD Goenka University, 2023–present. Full-stack development background, now focused on ETL and RAG. Currently learning Apache Spark." />
 
 <br />
 
