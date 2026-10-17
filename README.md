@@ -19,12 +19,18 @@
 <img src="04-projects.svg" width="100%" alt="Projects: JobPulse — ETL for 30 job roles and 6 Tableau charts. College Advisor — RAG recommendations using 52,000+ AISHE college records. Ntech — automated tech news with Tavily, Groq and GitHub Actions." />
 
 <p align="center">
-  <a href="https://github.com/AyushMourya43/JOB-PULSE"><img src="https://img.shields.io/badge/JOBPULSE-View%20Code-7456E8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open JobPulse source code" /></a>
-  <a href="https://college-advisor-izt2krlv49h8cboiuozmdj.streamlit.app/"><img src="https://img.shields.io/badge/COLLEGE%20ADVISOR-Open%20App-12A89D?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Open College Advisor app" /></a>
-  <a href="https://ayush-portfolio-dnef.vercel.app/"><img src="https://img.shields.io/badge/NTECH-Explore%20Portfolio-EB7855?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Explore Ntech on Ayush's portfolio" /></a>
+  <a href="https://github.com/AyushMourya43/JOB-PULSE"><img src="https://img.shields.io/badge/JOBPULSE-View%20Code-387FC8?style=for-the-badge&amp;labelColor=393943&amp;logo=github&amp;logoColor=white" alt="Open JobPulse source code" /></a>
+  <a href="https://college-advisor-izt2krlv49h8cboiuozmdj.streamlit.app/"><img src="https://img.shields.io/badge/COLLEGE%20ADVISOR-Open%20App-F3B552?style=for-the-badge&amp;labelColor=393943&amp;logo=streamlit&amp;logoColor=393943" alt="Open College Advisor app" /></a>
+  <a href="https://ayush-portfolio-dnef.vercel.app/"><img src="https://img.shields.io/badge/NTECH-Explore%20Portfolio-E4EEF8?style=for-the-badge&amp;labelColor=393943&amp;logo=vercel&amp;logoColor=393943" alt="Explore Ntech on Ayush's portfolio" /></a>
 </p>
 
 <img src="05-experience.svg" width="100%" alt="Experience: Full-Stack Developer Intern at Webarclight, October 2025–January 2026; Web Developer Intern at Uptoskills Technified, June–September 2025; HR Intern at Gomechanic, June–September 2025. Intern of the Month in August 2025, third place at Syntax Sprint ’25, and 100+ DSA problems solved." />
+
+<br />
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-ayush.svg" width="100%" alt="Ayush's automatically updated GitHub contribution heatmap" />
+</p>
 
 <br />
 
