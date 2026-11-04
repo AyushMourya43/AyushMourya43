@@ -1,91 +1,91 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="640" viewBox="0 0 1100 640" role="img">
 <title>Ayush Mourya's data engineering toolkit: Python, SQL, Spark, Databricks, Delta Lake and AWS learning.</title>
-<rect width="1100" height="640" fill="#ECEADF"/>
-<rect x="50" y="32" width="250" height="32" fill="#303C36"/>
-<rect x="45" y="27" width="250" height="32" fill="#B78D6E" stroke="#303C36" stroke-width="2"/>
-<text x="58" y="49" fill="#303C36" font-size="13" font-family="Arial, sans-serif" font-weight="700">DATA ENGINEERING TOOLKIT</text>
-<text x="45" y="113" fill="#303C36" font-size="46" font-family="Arial, sans-serif" font-weight="900">TOOLS FOR THE PIPELINE.</text>
-<text x="1000" y="63" fill="#435049" font-size="42" font-family="Arial, sans-serif" font-weight="900">02</text>
-<path d="M45 134 H1055" stroke="#303C36" stroke-width="3"/>
-<text x="45" y="164" fill="#435049" font-size="13" font-family="Arial, sans-serif" font-weight="700">EXTRACT</text>
-<text x="300" y="164" fill="#435049" font-size="13" font-family="Arial, sans-serif" font-weight="700">TRANSFORM</text>
-<text x="565" y="164" fill="#435049" font-size="13" font-family="Arial, sans-serif" font-weight="700">LAKEHOUSE</text>
-<text x="850" y="164" fill="#435049" font-size="13" font-family="Arial, sans-serif" font-weight="700">CLOUD</text>
-<path d="M100 159 H1015" stroke="#B6AB7D" stroke-width="3"/>
-<circle cy="159" r="5" fill="#B78D6E" stroke="#303C36" stroke-width="1.5">
+<rect width="1100" height="640" fill="#FDF1DB"/>
+<rect x="50" y="32" width="250" height="32" fill="#243F49"/>
+<rect x="45" y="27" width="250" height="32" fill="#A6CBD3" stroke="#243F49" stroke-width="2"/>
+<text x="58" y="49" fill="#243F49" font-size="13" font-family="Arial, sans-serif" font-weight="700">DATA ENGINEERING TOOLKIT</text>
+<text x="45" y="113" fill="#243F49" font-size="46" font-family="Arial, sans-serif" font-weight="900">TOOLS FOR THE PIPELINE.</text>
+<text x="1000" y="63" fill="#4F8FA8" font-size="42" font-family="Arial, sans-serif" font-weight="900">02</text>
+<path d="M45 134 H1055" stroke="#243F49" stroke-width="3"/>
+<text x="45" y="164" fill="#4F8FA8" font-size="13" font-family="Arial, sans-serif" font-weight="700">EXTRACT</text>
+<text x="300" y="164" fill="#4F8FA8" font-size="13" font-family="Arial, sans-serif" font-weight="700">TRANSFORM</text>
+<text x="565" y="164" fill="#4F8FA8" font-size="13" font-family="Arial, sans-serif" font-weight="700">LAKEHOUSE</text>
+<text x="850" y="164" fill="#4F8FA8" font-size="13" font-family="Arial, sans-serif" font-weight="700">CLOUD</text>
+<path d="M100 159 H1015" stroke="#DFD5C6" stroke-width="3"/>
+<circle cy="159" r="5" fill="#A6CBD3" stroke="#243F49" stroke-width="1.5">
   <animate attributeName="cx" values="100;1015;100" dur="7s" repeatCount="indefinite"/>
 </circle>
-<polygon points="50,200 196,200 208,212 208,284 50,284" fill="#303C36"/>
-<polygon points="45,195 191,195 203,207 203,279 45,279" fill="#435049" stroke="#303C36" stroke-width="2"/>
-<text x="59" y="232" fill="#ECEADF" font-size="28" font-family="Arial, sans-serif" font-weight="900">PY</text>
-<text x="59" y="260" fill="#ECEADF" font-size="15" font-family="Arial, sans-serif" font-weight="700">Python</text>
-<polygon points="222,200 368,200 380,212 380,284 222,284" fill="#303C36"/>
-<polygon points="217,195 363,195 375,207 375,279 217,279" fill="#435049" stroke="#303C36" stroke-width="2"/>
-<text x="231" y="232" fill="#ECEADF" font-size="25" font-family="Arial, sans-serif" font-weight="900">SQL</text>
-<text x="231" y="260" fill="#ECEADF" font-size="15" font-family="Arial, sans-serif" font-weight="700">SQL</text>
-<polygon points="394,200 540,200 552,212 552,284 394,284" fill="#303C36"/>
-<polygon points="389,195 535,195 547,207 547,279 389,279" fill="#435049" stroke="#303C36" stroke-width="2"/>
-<text x="403" y="232" fill="#ECEADF" font-size="28" font-family="Arial, sans-serif" font-weight="900">PD</text>
-<text x="403" y="260" fill="#ECEADF" font-size="15" font-family="Arial, sans-serif" font-weight="700">Pandas</text>
-<polygon points="566,200 712,200 724,212 724,284 566,284" fill="#303C36"/>
-<polygon points="561,195 707,195 719,207 719,279 561,279" fill="#435049" stroke="#303C36" stroke-width="2"/>
-<text x="575" y="232" fill="#ECEADF" font-size="28" font-family="Arial, sans-serif" font-weight="900">PG</text>
-<text x="575" y="260" fill="#ECEADF" font-size="15" font-family="Arial, sans-serif" font-weight="700">PostgreSQL</text>
-<polygon points="738,200 884,200 896,212 896,284 738,284" fill="#303C36"/>
-<polygon points="733,195 879,195 891,207 891,279 733,279" fill="#435049" stroke="#303C36" stroke-width="2"/>
-<text x="747" y="232" fill="#ECEADF" font-size="28" font-family="Arial, sans-serif" font-weight="900">MY</text>
-<text x="747" y="260" fill="#ECEADF" font-size="15" font-family="Arial, sans-serif" font-weight="700">MySQL</text>
-<polygon points="910,200 1056,200 1068,212 1068,284 910,284" fill="#303C36"/>
-<polygon points="905,195 1051,195 1063,207 1063,279 905,279" fill="#435049" stroke="#303C36" stroke-width="2"/>
-<text x="919" y="232" fill="#ECEADF" font-size="28" font-family="Arial, sans-serif" font-weight="900">NP</text>
-<text x="919" y="260" fill="#ECEADF" font-size="15" font-family="Arial, sans-serif" font-weight="700">NumPy</text>
-<polygon points="50,315 196,315 208,327 208,399 50,399" fill="#303C36"/>
-<polygon points="45,310 191,310 203,322 203,394 45,394" fill="#B78D6E" stroke="#303C36" stroke-width="2"/>
-<text x="59" y="347" fill="#303C36" font-size="25" font-family="Arial, sans-serif" font-weight="900">RAG</text>
-<text x="59" y="375" fill="#303C36" font-size="15" font-family="Arial, sans-serif" font-weight="700">RAG apps</text>
-<polygon points="222,315 368,315 380,327 380,399 222,399" fill="#303C36"/>
-<polygon points="217,310 363,310 375,322 375,394 217,394" fill="#B78D6E" stroke="#303C36" stroke-width="2"/>
-<text x="231" y="347" fill="#303C36" font-size="28" font-family="Arial, sans-serif" font-weight="900">GQ</text>
-<text x="231" y="375" fill="#303C36" font-size="15" font-family="Arial, sans-serif" font-weight="700">Groq API</text>
-<polygon points="394,315 540,315 552,327 552,399 394,399" fill="#303C36"/>
-<polygon points="389,310 535,310 547,322 547,394 389,394" fill="#B78D6E" stroke="#303C36" stroke-width="2"/>
-<text x="403" y="347" fill="#303C36" font-size="25" font-family="Arial, sans-serif" font-weight="900">SPK</text>
-<text x="403" y="375" fill="#303C36" font-size="15" font-family="Arial, sans-serif" font-weight="700">Apache Spark</text>
-<polygon points="566,315 712,315 724,327 724,399 566,399" fill="#303C36"/>
-<polygon points="561,310 707,310 719,322 719,394 561,394" fill="#B78D6E" stroke="#303C36" stroke-width="2"/>
-<text x="575" y="347" fill="#303C36" font-size="25" font-family="Arial, sans-serif" font-weight="900">DBX</text>
-<text x="575" y="375" fill="#303C36" font-size="15" font-family="Arial, sans-serif" font-weight="700">Databricks</text>
-<polygon points="738,315 884,315 896,327 896,399 738,399" fill="#303C36"/>
-<polygon points="733,310 879,310 891,322 891,394 733,394" fill="#B78D6E" stroke="#303C36" stroke-width="2"/>
-<text x="747" y="347" fill="#303C36" font-size="28" font-family="Arial, sans-serif" font-weight="900">DL</text>
-<text x="747" y="375" fill="#303C36" font-size="15" font-family="Arial, sans-serif" font-weight="700">Delta Lake</text>
-<polygon points="910,315 1056,315 1068,327 1068,399 910,399" fill="#303C36"/>
-<polygon points="905,310 1051,310 1063,322 1063,394 905,394" fill="#B78D6E" stroke="#303C36" stroke-width="2"/>
-<text x="919" y="347" fill="#303C36" font-size="25" font-family="Arial, sans-serif" font-weight="900">AWS</text>
-<text x="919" y="375" fill="#303C36" font-size="15" font-family="Arial, sans-serif" font-weight="700">Learning AWS</text>
-<polygon points="136,430 282,430 294,442 294,514 136,514" fill="#303C36"/>
-<polygon points="131,425 277,425 289,437 289,509 131,509" fill="#303C36" stroke="#303C36" stroke-width="2"/>
-<text x="145" y="462" fill="#ECEADF" font-size="28" font-family="Arial, sans-serif" font-weight="900">RE</text>
-<text x="145" y="490" fill="#ECEADF" font-size="15" font-family="Arial, sans-serif" font-weight="700">React</text>
-<polygon points="308,430 454,430 466,442 466,514 308,514" fill="#303C36"/>
-<polygon points="303,425 449,425 461,437 461,509 303,509" fill="#303C36" stroke="#303C36" stroke-width="2"/>
-<text x="317" y="462" fill="#ECEADF" font-size="28" font-family="Arial, sans-serif" font-weight="900">JS</text>
-<text x="317" y="490" fill="#ECEADF" font-size="15" font-family="Arial, sans-serif" font-weight="700">JavaScript</text>
-<polygon points="480,430 626,430 638,442 638,514 480,514" fill="#303C36"/>
-<polygon points="475,425 621,425 633,437 633,509 475,509" fill="#303C36" stroke="#303C36" stroke-width="2"/>
-<text x="489" y="462" fill="#ECEADF" font-size="28" font-family="Arial, sans-serif" font-weight="900">TW</text>
-<text x="489" y="490" fill="#ECEADF" font-size="15" font-family="Arial, sans-serif" font-weight="700">Tailwind CSS</text>
-<polygon points="652,430 798,430 810,442 810,514 652,514" fill="#303C36"/>
-<polygon points="647,425 793,425 805,437 805,509 647,509" fill="#303C36" stroke="#303C36" stroke-width="2"/>
-<text x="661" y="462" fill="#ECEADF" font-size="25" font-family="Arial, sans-serif" font-weight="900">GIT</text>
-<text x="661" y="490" fill="#ECEADF" font-size="15" font-family="Arial, sans-serif" font-weight="700">Git</text>
-<polygon points="824,430 970,430 982,442 982,514 824,514" fill="#303C36"/>
-<polygon points="819,425 965,425 977,437 977,509 819,509" fill="#303C36" stroke="#303C36" stroke-width="2"/>
-<text x="833" y="462" fill="#ECEADF" font-size="28" font-family="Arial, sans-serif" font-weight="900">CI</text>
-<text x="833" y="490" fill="#ECEADF" font-size="13" font-family="Arial, sans-serif" font-weight="700">GitHub Actions</text>
-<text x="45" y="568" fill="#435049" font-size="13" font-family="Arial, sans-serif" font-weight="700">ALSO IN THE MIX</text>
-<text x="45" y="600" fill="#303C36" font-size="19" font-family="Arial, sans-serif">REST APIs · HTML · CSS · Sentence-Transformers</text>
-<rect x="711" y="564" width="344" height="34" fill="#303C36"/>
-<rect x="706" y="559" width="344" height="34" fill="#B78D6E" stroke="#303C36" stroke-width="2"/>
-<text x="719" y="582" fill="#303C36" font-size="13" font-family="Arial, sans-serif" font-weight="700">CURRENT FOCUS: SPARK + DELTA LAKE</text>
+<polygon points="50,200 196,200 208,212 208,284 50,284" fill="#243F49"/>
+<polygon points="45,195 191,195 203,207 203,279 45,279" fill="#4F8FA8" stroke="#243F49" stroke-width="2"/>
+<text x="59" y="232" fill="#FDF1DB" font-size="28" font-family="Arial, sans-serif" font-weight="900">PY</text>
+<text x="59" y="260" fill="#FDF1DB" font-size="15" font-family="Arial, sans-serif" font-weight="700">Python</text>
+<polygon points="222,200 368,200 380,212 380,284 222,284" fill="#243F49"/>
+<polygon points="217,195 363,195 375,207 375,279 217,279" fill="#4F8FA8" stroke="#243F49" stroke-width="2"/>
+<text x="231" y="232" fill="#FDF1DB" font-size="25" font-family="Arial, sans-serif" font-weight="900">SQL</text>
+<text x="231" y="260" fill="#FDF1DB" font-size="15" font-family="Arial, sans-serif" font-weight="700">SQL</text>
+<polygon points="394,200 540,200 552,212 552,284 394,284" fill="#243F49"/>
+<polygon points="389,195 535,195 547,207 547,279 389,279" fill="#4F8FA8" stroke="#243F49" stroke-width="2"/>
+<text x="403" y="232" fill="#FDF1DB" font-size="28" font-family="Arial, sans-serif" font-weight="900">PD</text>
+<text x="403" y="260" fill="#FDF1DB" font-size="15" font-family="Arial, sans-serif" font-weight="700">Pandas</text>
+<polygon points="566,200 712,200 724,212 724,284 566,284" fill="#243F49"/>
+<polygon points="561,195 707,195 719,207 719,279 561,279" fill="#4F8FA8" stroke="#243F49" stroke-width="2"/>
+<text x="575" y="232" fill="#FDF1DB" font-size="28" font-family="Arial, sans-serif" font-weight="900">PG</text>
+<text x="575" y="260" fill="#FDF1DB" font-size="15" font-family="Arial, sans-serif" font-weight="700">PostgreSQL</text>
+<polygon points="738,200 884,200 896,212 896,284 738,284" fill="#243F49"/>
+<polygon points="733,195 879,195 891,207 891,279 733,279" fill="#4F8FA8" stroke="#243F49" stroke-width="2"/>
+<text x="747" y="232" fill="#FDF1DB" font-size="28" font-family="Arial, sans-serif" font-weight="900">MY</text>
+<text x="747" y="260" fill="#FDF1DB" font-size="15" font-family="Arial, sans-serif" font-weight="700">MySQL</text>
+<polygon points="910,200 1056,200 1068,212 1068,284 910,284" fill="#243F49"/>
+<polygon points="905,195 1051,195 1063,207 1063,279 905,279" fill="#4F8FA8" stroke="#243F49" stroke-width="2"/>
+<text x="919" y="232" fill="#FDF1DB" font-size="28" font-family="Arial, sans-serif" font-weight="900">NP</text>
+<text x="919" y="260" fill="#FDF1DB" font-size="15" font-family="Arial, sans-serif" font-weight="700">NumPy</text>
+<polygon points="50,315 196,315 208,327 208,399 50,399" fill="#243F49"/>
+<polygon points="45,310 191,310 203,322 203,394 45,394" fill="#A6CBD3" stroke="#243F49" stroke-width="2"/>
+<text x="59" y="347" fill="#243F49" font-size="25" font-family="Arial, sans-serif" font-weight="900">RAG</text>
+<text x="59" y="375" fill="#243F49" font-size="15" font-family="Arial, sans-serif" font-weight="700">RAG apps</text>
+<polygon points="222,315 368,315 380,327 380,399 222,399" fill="#243F49"/>
+<polygon points="217,310 363,310 375,322 375,394 217,394" fill="#A6CBD3" stroke="#243F49" stroke-width="2"/>
+<text x="231" y="347" fill="#243F49" font-size="28" font-family="Arial, sans-serif" font-weight="900">GQ</text>
+<text x="231" y="375" fill="#243F49" font-size="15" font-family="Arial, sans-serif" font-weight="700">Groq API</text>
+<polygon points="394,315 540,315 552,327 552,399 394,399" fill="#243F49"/>
+<polygon points="389,310 535,310 547,322 547,394 389,394" fill="#A6CBD3" stroke="#243F49" stroke-width="2"/>
+<text x="403" y="347" fill="#243F49" font-size="25" font-family="Arial, sans-serif" font-weight="900">SPK</text>
+<text x="403" y="375" fill="#243F49" font-size="15" font-family="Arial, sans-serif" font-weight="700">Apache Spark</text>
+<polygon points="566,315 712,315 724,327 724,399 566,399" fill="#243F49"/>
+<polygon points="561,310 707,310 719,322 719,394 561,394" fill="#A6CBD3" stroke="#243F49" stroke-width="2"/>
+<text x="575" y="347" fill="#243F49" font-size="25" font-family="Arial, sans-serif" font-weight="900">DBX</text>
+<text x="575" y="375" fill="#243F49" font-size="15" font-family="Arial, sans-serif" font-weight="700">Databricks</text>
+<polygon points="738,315 884,315 896,327 896,399 738,399" fill="#243F49"/>
+<polygon points="733,310 879,310 891,322 891,394 733,394" fill="#A6CBD3" stroke="#243F49" stroke-width="2"/>
+<text x="747" y="347" fill="#243F49" font-size="28" font-family="Arial, sans-serif" font-weight="900">DL</text>
+<text x="747" y="375" fill="#243F49" font-size="15" font-family="Arial, sans-serif" font-weight="700">Delta Lake</text>
+<polygon points="910,315 1056,315 1068,327 1068,399 910,399" fill="#243F49"/>
+<polygon points="905,310 1051,310 1063,322 1063,394 905,394" fill="#A6CBD3" stroke="#243F49" stroke-width="2"/>
+<text x="919" y="347" fill="#243F49" font-size="25" font-family="Arial, sans-serif" font-weight="900">AWS</text>
+<text x="919" y="375" fill="#243F49" font-size="15" font-family="Arial, sans-serif" font-weight="700">Learning AWS</text>
+<polygon points="136,430 282,430 294,442 294,514 136,514" fill="#243F49"/>
+<polygon points="131,425 277,425 289,437 289,509 131,509" fill="#243F49" stroke="#243F49" stroke-width="2"/>
+<text x="145" y="462" fill="#FDF1DB" font-size="28" font-family="Arial, sans-serif" font-weight="900">RE</text>
+<text x="145" y="490" fill="#FDF1DB" font-size="15" font-family="Arial, sans-serif" font-weight="700">React</text>
+<polygon points="308,430 454,430 466,442 466,514 308,514" fill="#243F49"/>
+<polygon points="303,425 449,425 461,437 461,509 303,509" fill="#243F49" stroke="#243F49" stroke-width="2"/>
+<text x="317" y="462" fill="#FDF1DB" font-size="28" font-family="Arial, sans-serif" font-weight="900">JS</text>
+<text x="317" y="490" fill="#FDF1DB" font-size="15" font-family="Arial, sans-serif" font-weight="700">JavaScript</text>
+<polygon points="480,430 626,430 638,442 638,514 480,514" fill="#243F49"/>
+<polygon points="475,425 621,425 633,437 633,509 475,509" fill="#243F49" stroke="#243F49" stroke-width="2"/>
+<text x="489" y="462" fill="#FDF1DB" font-size="28" font-family="Arial, sans-serif" font-weight="900">TW</text>
+<text x="489" y="490" fill="#FDF1DB" font-size="15" font-family="Arial, sans-serif" font-weight="700">Tailwind CSS</text>
+<polygon points="652,430 798,430 810,442 810,514 652,514" fill="#243F49"/>
+<polygon points="647,425 793,425 805,437 805,509 647,509" fill="#243F49" stroke="#243F49" stroke-width="2"/>
+<text x="661" y="462" fill="#FDF1DB" font-size="25" font-family="Arial, sans-serif" font-weight="900">GIT</text>
+<text x="661" y="490" fill="#FDF1DB" font-size="15" font-family="Arial, sans-serif" font-weight="700">Git</text>
+<polygon points="824,430 970,430 982,442 982,514 824,514" fill="#243F49"/>
+<polygon points="819,425 965,425 977,437 977,509 819,509" fill="#243F49" stroke="#243F49" stroke-width="2"/>
+<text x="833" y="462" fill="#FDF1DB" font-size="28" font-family="Arial, sans-serif" font-weight="900">CI</text>
+<text x="833" y="490" fill="#FDF1DB" font-size="13" font-family="Arial, sans-serif" font-weight="700">GitHub Actions</text>
+<text x="45" y="568" fill="#4F8FA8" font-size="13" font-family="Arial, sans-serif" font-weight="700">ALSO IN THE MIX</text>
+<text x="45" y="600" fill="#243F49" font-size="19" font-family="Arial, sans-serif">REST APIs · HTML · CSS · Sentence-Transformers</text>
+<rect x="711" y="564" width="344" height="34" fill="#243F49"/>
+<rect x="706" y="559" width="344" height="34" fill="#A6CBD3" stroke="#243F49" stroke-width="2"/>
+<text x="719" y="582" fill="#243F49" font-size="13" font-family="Arial, sans-serif" font-weight="700">CURRENT FOCUS: SPARK + DELTA LAKE</text>
 </svg>
